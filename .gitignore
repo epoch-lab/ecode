@@ -141,3 +141,6 @@ dist
 
 # IntelliJ
 .idea/
+
+# 某个好用的leetcode插开源件
+.lcpr_data
