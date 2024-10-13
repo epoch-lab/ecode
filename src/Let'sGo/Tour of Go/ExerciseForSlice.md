@@ -1,6 +1,6 @@
 # ExerciseForSlice
 
-题目链接: <https://golang.google.cn/tour/moretypes/18>
+题目链接：<https://golang.google.cn/tour/moretypes/18>
 
 这是一道其中其中关于切片的练习题
 
@@ -16,7 +16,7 @@ The choice of image is up to you. Interesting functions include (x+y)/2, x*y, an
 
 ## 解答
 
-说白了, 就是创建切片;
+说白了，就是创建切片;
 
 ```go
 package main
